@@ -12,4 +12,5 @@ Competition Link: [Sibur challenge 2023](https://platform.aitoday.ru/event/9) <b
 |-- model_\*.pkl - Модели регрессии для различных таргетов (продуктов) и различного типа газа <br/>
 
 2) predict.py - файл с инференсом, который принимает модели с Pipeline.ipynb и применяет для предсказания количества продусков в производстве. <br/>
-3) train.parquet - train data <br/>
+3) top3_solution.zip - решение (файл predict.py и модели) на отправку <br/>
+4) train.parquet - train data <br/>
