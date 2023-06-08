@@ -1,7 +1,7 @@
 ## Sibur challenge 2023 (Прогноза количества продуктов в производстве. 2-ая задача)
 
 Top 3 private solution (1.720% public and 1.724% private MAPE) <br/>
-Event Link: [Sibur challenge 2023 Event](https://sibur.digital/events) <br/>
+Event Link: [Sibur challenge 2023 Event](https://ai-community.com/sibur-challenge-2023) <br/>
 Competition Link: [Sibur challenge 2023](https://platform.aitoday.ru/event/9) <br/>
 
 #### Структура репозитория:
